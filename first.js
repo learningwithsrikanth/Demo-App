@@ -4,3 +4,6 @@ function add(num1, num2) {
 }
 let result = add(1, 2)
 console.log(result)
+
+
+console.log("Bye")
